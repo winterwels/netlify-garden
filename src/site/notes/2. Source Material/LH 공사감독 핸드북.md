@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/lh/","noteIcon":null}
+{"dg-publish":true,"permalink":"/2-source-material/lh/"}
 ---
 
 
