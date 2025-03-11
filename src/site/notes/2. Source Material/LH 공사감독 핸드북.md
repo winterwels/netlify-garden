@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/lh/"}
+{"dg-publish":true,"dg-permalink":"source-material/LH-공사감독-핸드북","permalink":"/source-material/LH-공사감독-핸드북/"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: 
+Tags: [[6. Main Notes/독서/독서\|독서]] [[dg\|dg]] 
 
 # LH 공사감독 핸드북
 
