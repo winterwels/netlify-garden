@@ -22,7 +22,7 @@ Tags: [[dg\|dg]]
 
 Test [[journals/2025-03/2025-03-10\|2025-03-10]] 22:18
 
-- [[2. Source Material/시공/철근\|철근]] 
+- [[철근\|철근]] 
 - [[6. Main Notes/독서/보르헤스의-말\|보르헤스의-말]] 
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 # References
