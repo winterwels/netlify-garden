@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: 
+Tags: [[dg\|dg]] 
 
 # Obsidian 리뉴얼
 240920 글
