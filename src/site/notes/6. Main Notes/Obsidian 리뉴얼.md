@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/obsidian/"}
+{"dg-publish":true,"dg-permalink":"Obsidian-리뉴얼","permalink":"/Obsidian-리뉴얼/"}
 ---
 
 

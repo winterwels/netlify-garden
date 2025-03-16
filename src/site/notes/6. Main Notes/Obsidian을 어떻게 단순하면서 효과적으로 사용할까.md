@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes/obsidian/"}
+{"dg-publish":true,"dg-permalink":"Obsidian을-어떻게-단순하면서-효과적으로-사용할까","permalink":"/Obsidian을-어떻게-단순하면서-효과적으로-사용할까/"}
 ---
 
 
