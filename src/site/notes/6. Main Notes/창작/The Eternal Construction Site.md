@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-main-notes//the-eternal-construction-site/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/The-Eternal-Construction-Site","permalink":"/6.-Main-Notes/창작/The-Eternal-Construction-Site/"}
 ---
 
 
