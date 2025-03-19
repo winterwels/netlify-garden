@@ -13,6 +13,15 @@ Tags:
 - 상위 문서:
 	- TRPG
 		- [[6. Main Notes/창작/Into the darkness/Into the darkness\|Into the darkness]]
+
+대충 사이버펑크 세계관으로 자캐놀이를 하고 있은
+
+그 주인공 중 한명이다. 나머지 하나는 [[6. Main Notes/창작/Into the darkness/Brian Dax\|Brian Dax]] 예요.
+
+분명 사교와 사회적 탐문, 자료조사 등을 담당하는 캐릭터인데 성격을 보면 그다지 어울리는 조합은 아니다만 직감이나 행운으로 어떻게든 벌어먹고 사는 느낌이랄까.
+
+`우연한 행복` 같은 장점도 넣거나 `말도 안되는 행복`으로 상향하는게 좋을지도
+
 - # 자캐놀음 프로필
 ![](https://i.imgur.com/Yphemue.jpeg)
 
