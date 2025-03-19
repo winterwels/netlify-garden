@@ -14,7 +14,7 @@ Tags:
 	- TRPG
 		- [[6. Main Notes/창작/Into the darkness/Into the darkness\|Into the darkness]]
 - # 자캐놀음 프로필
-![Ruth Kalail.jpg](/img/user/Attachments/Ruth%20Kalail.jpg)
+![](https://i.imgur.com/Yphemue.jpeg)
 
 ```
 "알 바야, 저 알아서 하라지."
