@@ -15,13 +15,15 @@ Tags: [[dg\|dg]]
 커스텀 CSS 관련해서는 어떻게 하는지 잘 모르겠다. (일단 기본 폰트는 매우 안 이쁘다)
 
 업로드 속도는 준수하나, 종종 어떤 플러그인들과 충돌하거나, 특정 문서들의 충돌로 인해 업로드가 안되는 문제점이 있다. [[AI\|ChatGPT]] 랑 열심히 씨름해야한다. (콘솔창 Ctrl+Shift+i)
-플러그인 하나씩 Disable 해보거나 각 문서별로 `dg-permalink` 설정하면 왠만하면 되긴 되는데 너무 자주 문제가 생긴다.
+플러그인 하나씩 Disable 해보거나 각 문서별로 **`dg-permalink`** 설정하면 **왠만하면** 되긴 되는데 너무 자주 문제가 생긴다.
 Obsidian Sync가 가격은 비싸도 이런 걸로 고민 안해도 되니 차라리 나을지도 모름.)
 
 Test [[Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 - [[2. Source Material/시공/철근\|철근]] 
-- [[6. Main Notes/독서/보르헤스의-말\|보르헤스의-말]] 
+- [[6. Main Notes/독서/보르헤스의-말\|보르헤스의-말]] : 나름 독후감 (다 읽지도 않음)
+- [[6. Main Notes/창작/창작\|창작]] : 그냥 이것저것
+- [[PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
 # 도보시오
