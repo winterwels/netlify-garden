@@ -8,7 +8,7 @@ Status:
 
 Tags: [[dg\|dg]] 
 
-# 바아아아
+# 안녕안녕
 
 이 페이지 주소 : [링크](https://imaginative-griffin-caaf97.netlify.app/) 
 
