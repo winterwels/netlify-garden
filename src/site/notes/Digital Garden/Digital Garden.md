@@ -22,7 +22,7 @@ Test [[Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 - [[2. Source Material/시공/철근\|철근]] 
 - [[6. Main Notes/독서/보르헤스의-말\|보르헤스의-말]] : 나름 독후감 (다 읽지도 않음)
-- [[창작\|창작]] : 그냥 이것저것
+- [[6. Main Notes/창작/INDEX-창작\|창작]] : 그냥 이것저것
 - [[PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
