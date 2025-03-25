@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[dg\|dg]], [[창작\|창작]]
+Tags: [[dg\|dg]], [[6. Main Notes/창작/INDEX-창작\|INDEX-창작]] 
 
 https://www.youtube.com/watch?v=1cBZcpSeiFc
 
