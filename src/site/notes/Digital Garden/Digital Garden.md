@@ -28,7 +28,8 @@ Test [[Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 # 도보시오
 ## 가이드
-[Vercel을 이용한 Digital Garden 서비스 - 가이드](https://anpigon.vercel.app/%F0%9F%A7%B0%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%8F%84%EA%B5%AC/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20Obsidian/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B0%80%EB%93%A0%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/01%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/) 
+[Vercel을 이용한 Digital Garden 서비스 - 가이드](https://anpigon.vercel.app/%F0%9F%A7%B0%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%8F%84%EA%B5%AC/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20Obsidian/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B0%80%EB%93%A0%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/01%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/) : Vercel은 별로 쓰기 좋지 않다. **그냥 Netlify 를 이용**할 것. 방법은 거진 같다.
+
 [Digital Garden Docs - 02 Commands](https://dg-docs.ole.dev/getting-started/02-commands/) : 기본 명령어
 [Digital Garden Docs - 03 Note Settings](https://dg-docs.ole.dev/getting-started/03-note-settings/) : 노트 세팅 방법 (properties 등)
 [Digital Garden Docs - 04 Appearance Settings](https://dg-docs.ole.dev/getting-started/04-appearance-settings/) : 테마 설정 등.
