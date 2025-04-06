@@ -14,6 +14,9 @@ Tags: [[PKM/PKM\|PKM]] , [[dg\|dg]]
 
 이 페이지를 포함한 사이트는 [[PKM/Obsidian\|Obsidian]] 의 [Digital Garden](https://dg-docs.ole.dev/) 플러그인을 통해 만들어졌읍니다. 호스팅은 [Netlify](https://app.netlify.com/) 에서 하고 있읍니다
 
+# Smart Random note 를 이용한 #재참조 방법
+경로 : `path:"2. source material/시공"` 
+태그 : `tag:` 
 # 질문
 [sandbox vault](https://forum.obsidian.md/t/how-to-open-sandbox-vault/50028) 가 뭐죠? (단축키 뭔가 누르다가 갑자기 뜸)
 
