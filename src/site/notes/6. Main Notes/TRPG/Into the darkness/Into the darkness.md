@@ -15,6 +15,8 @@ Tags: [[dg\|dg]] , [[6. Main Notes/창작/TRPG\|TRPG]]
 뭐 그냥 혼자 노는 법에 대해서 기술했다고 하네요.
 
 다른 곳에서 플레이하던 로그가 있었으나, 굳이 올리진 않기로... 언젠가 싹 갈아엎어버릴 생각임.
+
+사족 : [[6. Main Notes/창작/자캐 갤러리\|자캐 갤러리]] 도 보고가셔요 호호 자캐짤이 가득. (**데이터 주의**)
 # PC 시트
 [PC 시트 스프레드시트 버전](https://docs.google.com/spreadsheets/d/1lQW69l_PnpZOQSXAa5j7UGfa-n58hkXETD_gHfj-pAA/edit?usp=sharing) 
 [GM Helper](https://docs.google.com/spreadsheets/d/1_yDBH-8tKGCT6PpROyLIHy09c1-ZJaFr14IoBUsSfgc/edit?usp=sharing) : 타로카드와 Mythic과 이것저것을 짬뽕한 솔로플레이용 세팅...
