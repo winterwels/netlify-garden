@@ -10,6 +10,7 @@ Status:
 Tags: [[dg\|dg]] , [[6. Main Notes/창작/TRPG\|TRPG]] 
 # 요약
 아래는 혼자 놀기 + 자캐놀음 세계관의 살을 더하기 위함의 일환으로서...
+(끗발좋은 서푼짜리 떼껄룩 탐정 [[6. Main Notes/TRPG/Into the darkness/Ruth Kalail\|루스]]와 초천재 하카 [[6. Main Notes/TRPG/Into the darkness/Brian Dax\|브라이언]]의 좌충우돌 모험 이야기)
 
 뭐 그냥 혼자 노는 법에 대해서 기술했다고 하네요.
 
