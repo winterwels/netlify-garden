@@ -26,7 +26,7 @@ Tags: [[PKM/PKM\|PKM]] , [[dg\|dg]]
 - 가이드글
 	- [obsidian.help](https://help.obsidian.md/Home) : 공홈
 	- [대학생활 뽀개기](https://www.youtube.com/watch?v=NrwTzzSNPK8) : 유튜브 영상인데 너무 길다. 대학생, 대학원생 관련 내용.
-- [미니멀리즘적으로 사용 (플러그인 최소화, 바닐라)](https://youtu.be/hSTy_BInQs8) 
+- [미니멀리즘적으로 사용 (플러그인 최소화, 바닐라)](https://youtu.be/hSTy_BInQs8) : [[3. Tags/Child\|Child]]/[[3. Tags/Baby\|Baby]]/[[Tags/Adult\|#Adult]] 개념이 들어간 [[1. Rough Note/Template 사용법\|Template 사용법]] 임
 - [옵시디언을 세컨드 브레인으로 만드는 방법](https://info.quokkanews.com/옵시디언을-세컨드-브레인으로-만드는-방법/) 
 ## 노트토크 후기
 - 출처: [노트토크 후기](https://www.secondbrain.kr/0207a471-c397-48e5-9cfa-a233e8be4530

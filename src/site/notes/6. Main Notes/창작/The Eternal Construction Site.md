@@ -14,7 +14,7 @@ Tags: [[dg\|dg]]
 created : 2024-12-14
 
 - Metadata
-	- 상위문서: [[6. Main Notes/창작/TRPG\|TRPG]] / [[One Page Dungeon\|One Page Dungeon]] 
+	- 상위문서: [[6. Main Notes/창작/TRPG\|TRPG]] / [[6. Main Notes/TRPG/One Page Dungeon\|One Page Dungeon]] 
 	- 연관 문서: 
 	- 참고 문서: 
 ![Pasted image 20241214212755.png](/img/user/Attachments/Pasted%20image%2020241214212755.png) [[Pasted image 20241214212755.png]] 

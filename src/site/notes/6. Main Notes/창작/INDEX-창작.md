@@ -26,11 +26,11 @@ Tags: [[dg\|dg]] , [[취미\|취미]]
 
 ## 자캐놀음 - 사이버-빵꾸
 
-[[6. Main Notes/창작/Into the darkness/Ruth Kalail\|Ruth Kalail]] : 떼껄룩
+[[6. Main Notes/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]] : 떼껄룩
 [[6. Main Notes/창작/루스 연성\|루스 연성]] : 자관 실험체 남캐와... 딱히 좋게 끝나진 않았고, 오래 가지도 않았다.
 [[6. Main Notes/창작/가제는 엄마 편\|가제는 엄마 편]] : 루스의 엄마 이야기. 루스가 분뇨조절장애에 걸리다.
 
-[[6. Main Notes/창작/Into the darkness/Brian Dax\|Brian Dax]] : 초천재 하카 + 브리안느
+[[6. Main Notes/TRPG/Into the darkness/Brian Dax\|Brian Dax]] : 초천재 하카 + 브리안느
 [[6. Main Notes/창작/미스 레이온\|미스 레이온]] : 백화점에서 꽁냥꽁냥
 [[6. Main Notes/창작/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]] : 페이데이2를 생각하며 쓴 가벼운 하이스트물
 [[6. Main Notes/창작/탐정 사무실, 어느 하루\|탐정 사무실, 어느 하루]] : 뭔가 석연찮음 **(미게시)**

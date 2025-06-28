@@ -11,7 +11,7 @@ Tags: [[창작\|창작]], [[dg\|dg]]
 
 # Baby ruth and the finest tale about the greatest adventure
 마찬가지로, 언제 쓴 건지 모르겠는 자캐 소설
-[[6. Main Notes/창작/Into the darkness/Ruth Kalail\|Ruth Kalail]] 와 [[6. Main Notes/창작/Into the darkness/Brian Dax\|Brian Dax]] 이 나온다는 것이다.
+[[6. Main Notes/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]] 와 [[6. Main Notes/TRPG/Into the darkness/Brian Dax\|Brian Dax]] 이 나온다는 것이다.
 
 ◈◈◈
 
