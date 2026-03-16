@@ -26,6 +26,29 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
+- [[20. Daily-Note/2024-11/2024-11-13\|2024-11-13]]
+- [[20. Daily-Note/2025-03/2025-03-15\|2025-03-15]]
+- [[20. Daily-Note/2025-04/2025-04-19\|2025-04-19]]
+- [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]]
+- [[PARA/00. Inbox/TRPG/Into the darkness/Into the darkness\|Into the darkness]]
+- [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/00. Inbox/TRPG/One Page Dungeon\|One Page Dungeon]]
+- [[PARA/00. Inbox/Workflowy-Second-Brain\|Workflowy-Second-Brain]]
+- [[PARA/00. Inbox/감정-내성-범위와-감정적-상황에-대한-대처능력\|감정-내성-범위와-감정적-상황에-대한-대처능력]]
+- [[PARA/00. Inbox/개인지식관리체계/I found a gem\|I found a gem]]
+- [[PARA/00. Inbox/건축법규\|건축법규]]
+- [[PARA/00. Inbox/구조화된-질문-방식\|구조화된-질문-방식]]
+- [[PARA/00. Inbox/명상의-중요성에-대해서\|명상의-중요성에-대해서]]
+- [[PARA/00. Inbox/비폭력대화\|비폭력대화]]
+- [[PARA/00. Inbox/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]
+- [[PARA/00. Inbox/인지적 종결욕구\|인지적 종결욕구]]
+- [[PARA/00. Inbox/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]
+- [[PARA/00. Inbox/행복한-기억\|행복한-기억]]
+- [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
+- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
+
+{ .block-language-dataview}
+
 # 도보시오
 ## 가이드
 [Vercel을 이용한 Digital Garden 서비스 - 가이드](https://anpigon.vercel.app/%F0%9F%A7%B0%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%8F%84%EA%B5%AC/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20Obsidian/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B0%80%EB%93%A0%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/01%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/) : Vercel은 별로 쓰기 좋지 않다. **그냥 Netlify 를 이용**할 것. 방법은 거진 같다.
