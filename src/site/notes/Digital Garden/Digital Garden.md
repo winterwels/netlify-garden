@@ -26,7 +26,6 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
-- [[Ein Ozean\|Ein Ozean]]
 - [[Digital Garden/Digital Garden\|Digital Garden]]
 - [[Digital Garden/Journal/240615\|240615]]
 - [[Digital Garden/Journal/9. 사고와 잊혀지는 기억, 아버지와 죽음\|9. 사고와 잊혀지는 기억, 아버지와 죽음]]
@@ -35,6 +34,7 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[20. Daily-Note/2025-04/2025-04-19\|2025-04-19]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
+- [[PARA/20. A-Area/작곡/작곡\|작곡]]
 - [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
 - [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
