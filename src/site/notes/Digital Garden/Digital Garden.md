@@ -6,7 +6,7 @@
 
 Status: 
 
-Tags: [[PARA/00. Inbox/dg\|dg]] 
+Tags: [[Tags/dg\|dg]] 
 
 # 안녕안녕
 
@@ -26,26 +26,26 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
+- [[Ein Ozean\|Ein Ozean]]
+- [[Digital Garden/Digital Garden\|Digital Garden]]
+- [[Digital Garden/Journal/240615\|240615]]
+- [[Digital Garden/Journal/9. 사고와 잊혀지는 기억, 아버지와 죽음\|9. 사고와 잊혀지는 기억, 아버지와 죽음]]
+- [[Digital Garden/Journal/정아인과 싸움 (240627)\|정아인과 싸움 (240627)]]
 - [[20. Daily-Note/2024-11/2024-11-13\|2024-11-13]]
-- [[20. Daily-Note/2025-03/2025-03-15\|2025-03-15]]
 - [[20. Daily-Note/2025-04/2025-04-19\|2025-04-19]]
-- [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]]
-- [[PARA/00. Inbox/TRPG/Into the darkness/Into the darkness\|Into the darkness]]
-- [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]]
-- [[PARA/00. Inbox/TRPG/One Page Dungeon\|One Page Dungeon]]
-- [[PARA/00. Inbox/Workflowy-Second-Brain\|Workflowy-Second-Brain]]
-- [[PARA/00. Inbox/감정-내성-범위와-감정적-상황에-대한-대처능력\|감정-내성-범위와-감정적-상황에-대한-대처능력]]
-- [[PARA/00. Inbox/개인지식관리체계/I found a gem\|I found a gem]]
-- [[PARA/00. Inbox/건축법규\|건축법규]]
-- [[PARA/00. Inbox/구조화된-질문-방식\|구조화된-질문-방식]]
-- [[PARA/00. Inbox/명상의-중요성에-대해서\|명상의-중요성에-대해서]]
-- [[PARA/00. Inbox/비폭력대화\|비폭력대화]]
-- [[PARA/00. Inbox/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]
-- [[PARA/00. Inbox/인지적 종결욕구\|인지적 종결욕구]]
-- [[PARA/00. Inbox/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]
-- [[PARA/00. Inbox/행복한-기억\|행복한-기억]]
-- [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
-- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
+- [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
+- [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
+- [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
+- [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
+- [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
+- [[PARA/20. A-Area/글쓰기/TRPG\|TRPG]]
+- [[PARA/20. A-Area/글쓰기/Payback DOJO\|Payback DOJO]]
+- [[PARA/20. A-Area/글쓰기/가제는 엄마 편\|가제는 엄마 편]]
+- [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]
+- [[PARA/20. A-Area/글쓰기/미스 레이온\|미스 레이온]]
+- [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
+- [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
+- [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
 
 { .block-language-dataview}
 

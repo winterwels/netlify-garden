@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/20. A-Area/PKM/PKM\|PKM]] , [[PARA/00. Inbox/dg\|dg]] 
+Tags: [[PARA/20. A-Area/PKM/PKM\|PKM]] , [[Tags/dg\|dg]] 
 
 # Obsidian
 [[PARA/40. H-Archive/Dataview\|Dataview]] 와 [[PARA/00. Inbox/Obsidian to anki 사용법\|Obsidian to anki 사용법]] 참고
@@ -23,7 +23,7 @@ https://cafe.naver.com/obsidianary/18965)
 
 ## 임시 저장글
 - [[PARA/00. Inbox/Minimal화 Vault 운영 방법\|Minimal화 Vault 운영 방법]] : [[PARA/00. Inbox/Anki\|Anki]] 완료
-- [[PARA/00. Inbox/Workflowy-Second-Brain\|Workflowy-Second-Brain]] : [[PARA/00. Inbox/Anki\|Anki]] 완료
+- [[Workflowy-Second-Brain\|Workflowy-Second-Brain]] : [[PARA/00. Inbox/Anki\|Anki]] 완료
 - [[PARA/00. Inbox/완벽한-시스템이-있을거라는-착각\|완벽한-시스템이-있을거라는-착각]] : [[PARA/00. Inbox/Anki\|Anki]] 완료
 
 # Smart Random note 를 이용한 #재참조 방법

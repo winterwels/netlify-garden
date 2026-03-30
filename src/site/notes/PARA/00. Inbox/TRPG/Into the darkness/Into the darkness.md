@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/00. Inbox/dg\|dg]] , [[PARA/20. A-Area/글쓰기/TRPG\|TRPG]] 
+Tags: [[Tags/dg\|dg]] , [[PARA/20. A-Area/글쓰기/TRPG\|TRPG]] 
 # 요약
 아래는 혼자 놀기 + 자캐놀음 세계관의 살을 더하기 위함의 일환으로서...
 (끗발좋은 서푼짜리 떼껄룩 탐정 [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|루스]]와 초천재 하카 [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|브라이언]]의 좌충우돌 모험 이야기)

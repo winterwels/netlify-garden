@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/The-Eternal-Construction-Site","permalink":"/6.-Main-Notes/창작/The-Eternal-Construction-Site/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/The-Eternal-Construction-Site","permalink":"/6.-Main-Notes/창작/The-Eternal-Construction-Site/","tags":["저장"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/00. Inbox/dg\|dg]] 
+Tags: [[Tags/dg\|dg]] 
 
 # The Eternal Construction Site
 # `2024-12-14`

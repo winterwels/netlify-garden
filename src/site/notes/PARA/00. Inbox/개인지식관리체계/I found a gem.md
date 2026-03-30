@@ -7,7 +7,7 @@
 
 Status: [[Tags/Child\|Child]] 
 
-Tags: [[Tags/아이디어\|아이디어]] , [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] , [[PARA/20. A-Area/글쓰기/글쓰기\|PARA/20. A-Area/글쓰기/글쓰기]] , [[Zettelkasten/Zettelkasten\|제텔카스텐]] 
+Tags: [[Tags/아이디어\|아이디어]] , [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] , [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]] , [[Zettelkasten/Zettelkasten\|제텔카스텐]] 
 
 # I found a gem
 출처: [reddit](https://www.reddit.com/r/Zettelkasten/comments/jho1em/i_found_a_gem/)

@@ -7,7 +7,7 @@
 
 Status: [[Tags/Baby\|Baby]] 
 
-Tags: [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]], [[PARA/00. Inbox/dg\|dg]]
+Tags: [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]], [[Tags/dg\|dg]]
 
 # Baby ruth and the finest tale about the greatest adventure
 마찬가지로, 언제 쓴 건지 모르겠는 자캐 소설

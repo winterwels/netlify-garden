@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/00. Inbox/dg\|dg]], [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]] 
+Tags: [[Tags/dg\|dg]], [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]] 
 
 https://www.youtube.com/watch?v=1cBZcpSeiFc
 

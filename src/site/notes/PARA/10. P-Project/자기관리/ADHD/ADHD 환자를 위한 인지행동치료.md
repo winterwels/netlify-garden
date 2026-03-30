@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/10. P-Project/자기관리/ADHD/ADHD\|PARA/10. P-Project/자기관리/ADHD/ADHD]] , [[PARA/00. Inbox/dg\|dg]]
+Tags: [[PARA/10. P-Project/자기관리/ADHD/ADHD\|PARA/10. P-Project/자기관리/ADHD/ADHD]] , [[Tags/dg\|dg]]
 
 # ADHD 환자를 위한 인지행동치료
 출처: [정신의학신문](https://www.psychiatricnews.net/news/articleView.html?idxno=35738) + 내 생각

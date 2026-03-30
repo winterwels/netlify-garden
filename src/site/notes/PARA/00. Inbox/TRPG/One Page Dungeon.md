@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[PARA/00. Inbox/dg\|dg]] , #기록 
+Tags: [[Tags/dg\|dg]] , #기록 
 
 # One Page Dungeon
 # `2024-12-14`
