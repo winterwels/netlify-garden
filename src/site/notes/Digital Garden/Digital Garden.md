@@ -34,7 +34,6 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[20. Daily-Note/2025-04/2025-04-19\|2025-04-19]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
-- [[PARA/20. A-Area/작곡/작곡\|작곡]]
 - [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
 - [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
@@ -46,6 +45,7 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
 - [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
 - [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
+- [[PARA/20. A-Area/글쓰기/자캐 갤러리\|자캐 갤러리]]
 
 { .block-language-dataview}
 
