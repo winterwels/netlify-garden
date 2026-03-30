@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/ADSR","permalink":"/작곡/ADSR/"}
+{"dg-publish":true,"dg-permalink":"작곡/ADSR","permalink":"/작곡/ADSR/","created":"2026-03-31T00:32:45.346+09:00"}
 ---
 
 Status: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Into-the-darkness/Ruth-Kalail","permalink":"/6.-Main-Notes/창작/Into-the-darkness/Ruth-Kalail/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Into-the-darkness/Ruth-Kalail","permalink":"/6.-Main-Notes/창작/Into-the-darkness/Ruth-Kalail/","created":"2026-03-23T10:58:23.389+09:00"}
 ---
 
 

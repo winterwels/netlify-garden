@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG/One-Page-Dungeon","permalink":"/6.-Main-Notes/창작/TRPG/One-Page-Dungeon/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG/One-Page-Dungeon","permalink":"/6.-Main-Notes/창작/TRPG/One-Page-Dungeon/","created":"2026-03-23T10:58:23.393+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/Ping-pong-pan","permalink":"/작곡/Reaper/Reaper-Plugins/Ping-pong-pan/"}
+{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/Ping-pong-pan","permalink":"/작곡/Reaper/Reaper-Plugins/Ping-pong-pan/","created":"2026-03-30T23:27:01.860+09:00"}
 ---
 
 Status: 

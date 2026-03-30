@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/MyMusic/MyMusic","permalink":"/작곡/MyMusic/MyMusic/"}
+{"dg-publish":true,"dg-permalink":"작곡/MyMusic/MyMusic","permalink":"/작곡/MyMusic/MyMusic/","created":"2026-03-31T00:52:03.084+09:00"}
 ---
 
 Status: 

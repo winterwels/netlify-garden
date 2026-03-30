@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins","permalink":"/작곡/Reaper/Reaper-Plugins/"}
+{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins","permalink":"/작곡/Reaper/Reaper-Plugins/","created":"2026-03-30T23:16:24.935+09:00"}
 ---
 
 Status: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"7.PARA/P-PROJECT/자기관리/ADHD/ADHD-환자를-위한-인지행동치료","permalink":"/7.PARA/P-PROJECT/자기관리/ADHD/ADHD-환자를-위한-인지행동치료/"}
+{"dg-publish":true,"dg-permalink":"7.PARA/P-PROJECT/자기관리/ADHD/ADHD-환자를-위한-인지행동치료","permalink":"/7.PARA/P-PROJECT/자기관리/ADHD/ADHD-환자를-위한-인지행동치료/","created":"2026-03-23T10:58:24.079+09:00"}
 ---
 
 

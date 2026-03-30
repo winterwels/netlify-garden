@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Into-the-darkness/Brian-Dax","permalink":"/6.-Main-Notes/창작/Into-the-darkness/Brian-Dax/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Into-the-darkness/Brian-Dax","permalink":"/6.-Main-Notes/창작/Into-the-darkness/Brian-Dax/","created":"2026-03-23T10:58:23.386+09:00"}
 ---
 
 

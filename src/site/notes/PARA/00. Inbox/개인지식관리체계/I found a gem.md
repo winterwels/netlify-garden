@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/00-inbox//i-found-a-gem/"}
+{"dg-publish":true,"permalink":"/para/00-inbox//i-found-a-gem/","created":"2026-03-23T10:58:23.403+09:00"}
 ---
 
 

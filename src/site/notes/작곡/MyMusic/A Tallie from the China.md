@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/MyMusic/A-Tallie-from-China","permalink":"/작곡/MyMusic/A-Tallie-from-China/"}
+{"dg-publish":true,"dg-permalink":"작곡/MyMusic/A-Tallie-from-China","permalink":"/작곡/MyMusic/A-Tallie-from-China/","created":"2026-03-23T10:58:24.149+09:00"}
 ---
 
 Status: 

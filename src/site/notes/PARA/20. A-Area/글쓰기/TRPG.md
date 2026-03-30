@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG","permalink":"/6.-Main-Notes/창작/TRPG/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG","permalink":"/6.-Main-Notes/창작/TRPG/","created":"2026-03-23T10:58:23.607+09:00"}
 ---
 
 

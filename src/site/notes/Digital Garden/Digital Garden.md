@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Digital-Garden/Digital-Garden","permalink":"/Digital-Garden/Digital-Garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Digital-Garden/Digital-Garden","permalink":"/Digital-Garden/Digital-Garden/","tags":["gardenEntry"],"created":"2026-03-23T10:58:23.344+09:00"}
 ---
 
 2025-03-10 19:00

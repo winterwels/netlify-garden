@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/MyMusic/Song-of-Pigeon","permalink":"/작곡/MyMusic/Song-of-Pigeon/"}
+{"dg-publish":true,"dg-permalink":"작곡/MyMusic/Song-of-Pigeon","permalink":"/작곡/MyMusic/Song-of-Pigeon/","created":"2026-03-31T00:16:51.241+09:00"}
 ---
 
 Status: 

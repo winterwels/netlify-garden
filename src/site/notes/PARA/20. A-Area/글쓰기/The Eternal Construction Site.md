@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/The-Eternal-Construction-Site","permalink":"/6.-Main-Notes/창작/The-Eternal-Construction-Site/","tags":["저장"]}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/The-Eternal-Construction-Site","permalink":"/6.-Main-Notes/창작/The-Eternal-Construction-Site/","tags":["저장"],"created":"2026-03-23T10:58:23.606+09:00"}
 ---
 
 

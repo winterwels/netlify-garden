@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG/Into-the-darkness/Into-the-darkness","permalink":"/6.-Main-Notes/창작/TRPG/Into-the-darkness/Into-the-darkness/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/TRPG/Into-the-darkness/Into-the-darkness","permalink":"/6.-Main-Notes/창작/TRPG/Into-the-darkness/Into-the-darkness/","created":"2026-03-23T10:58:23.387+09:00"}
 ---
 
 

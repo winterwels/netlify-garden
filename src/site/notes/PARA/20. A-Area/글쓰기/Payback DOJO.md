@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Payback-DOJO","permalink":"/6.-Main-Notes/창작/Payback-DOJO/"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Payback-DOJO","permalink":"/6.-Main-Notes/창작/Payback-DOJO/","created":"2026-03-23T10:58:23.604+09:00"}
 ---
 
 

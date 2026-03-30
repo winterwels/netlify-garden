@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"3.-Tags/clipping/clipping","permalink":"/3.-Tags/clipping/clipping/"}
+{"dg-publish":true,"dg-permalink":"3.-Tags/clipping/clipping","permalink":"/3.-Tags/clipping/clipping/","created":"2026-03-23T10:58:24.176+09:00"}
 ---
 
 

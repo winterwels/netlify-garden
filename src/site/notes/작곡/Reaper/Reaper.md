@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper","permalink":"/작곡/Reaper/Reaper/"}
+{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper","permalink":"/작곡/Reaper/Reaper/","created":"2026-03-23T10:58:24.140+09:00"}
 ---
 
 Status: 
