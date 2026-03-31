@@ -30,7 +30,6 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[PARA/00. Inbox/건축법규\|건축법규]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
 - [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]
@@ -49,6 +48,7 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
 - [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
 - [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
+- [[PARA/20. A-Area/글쓰기/자캐 갤러리\|자캐 갤러리]]
 
 { .block-language-dataview}
 
@@ -60,6 +60,9 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------- | ------------------ |
+| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 18:11 |
+| [[PARA/20. A-Area/작곡/프로듀싱\|프로듀싱]]                                                    | 31.03.2026 - 18:06 |
+| [[PARA/00. Inbox/건축법규\|건축법규]]                                                        | 31.03.2026 - 18:05 |
 | [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
 | [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
 | [[Zettelkasten/취약성\|취약성]]                                                            | 31.03.2026 - 17:52 |
@@ -82,9 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[Zettelkasten/감정의 핵심은 자존감에 있다\|감정의 핵심은 자존감에 있다]]                                    | 31.03.2026 - 17:34 |
 | [[Zettelkasten/감정-내성-범위와-감정적-상황에-대한-대처능력\|감정-내성-범위와-감정적-상황에-대한-대처능력]]                | 31.03.2026 - 17:33 |
 | [[PARA/00. Inbox/개인지식관리체계/개인지식관리체계\|개인지식관리체계]]                                       | 31.03.2026 - 17:33 |
-| [[Zettelkasten/I found a gem\|I found a gem]]                                        | 31.03.2026 - 17:32 |
-| [[Zettelkasten/도구는 신체를 확장시킨다\|도구는 신체를 확장시킨다]]                                        | 31.03.2026 - 17:32 |
-| [[Zettelkasten/고무 손바닥 감각 실험\|고무 손바닥 감각 실험]]                                          | 31.03.2026 - 17:31 |
 
 { .block-language-dataview}
 
