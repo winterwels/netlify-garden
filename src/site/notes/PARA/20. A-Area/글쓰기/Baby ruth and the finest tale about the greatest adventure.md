@@ -11,7 +11,7 @@ Tags: [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]], [[Tags/dg\|dg]]
 
 # Baby ruth and the finest tale about the greatest adventure
 마찬가지로, 언제 쓴 건지 모르겠는 자캐 소설
-[[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]] 와 [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]] 이 나온다는 것이다.
+[[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]] 와 [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]] 이 나온다는 것이다.
 
 ◈◈◈
 

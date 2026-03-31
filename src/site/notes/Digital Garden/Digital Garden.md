@@ -20,35 +20,121 @@ Tags: [[Tags/dg\|dg]]
 
 Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
-- [[PARA/10. P-Project/현장 관리/철근\|철근]] 
-- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]] : 나름 독후감 (다 읽지도 않음)
+- [[PARA/10. P-Project/1,000권 독서/1,000권 독서\|1,000권 독서]] : 그냥 막연하게 1,000 권이라고 정해놓음.
 - [[PARA/20. A-Area/글쓰기/글쓰기\|창작]] : 그냥 이것저것
+	- [[PARA/20. A-Area/TRPG/TRPG\|TRPG]] : 내가 만든 TRPG 시나리오, 번역한 시나리오, 세계관, 캐릭터 등등.
+	- [[PARA/20. A-Area/작곡/작곡\|작곡]] : 요즘 취미 들이고 있는 것.
+		- [[PARA/20. A-Area/작곡/Reaper/Reaper\|Reaper]] : 작곡에 사용되는 DAW 툴.
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] : 옵시디언 해라. 두번 해라. (내 인생이 달라졌다)
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
+아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[PARA/00. Inbox/TRPG/One Page Dungeon\|One Page Dungeon]]
-- [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]]
-- [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]]
 - [[PARA/00. Inbox/건축법규\|건축법규]]
-- [[PARA/00. Inbox/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]
-- [[PARA/00. Inbox/인지적 종결욕구\|인지적 종결욕구]]
-- [[PARA/00. Inbox/전문가의 세계에서 메모하는 방법\|전문가의 세계에서 메모하는 방법]]
-- [[PARA/00. Inbox/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]
-- [[PARA/00. Inbox/행복한-기억\|행복한-기억]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
 - [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
+- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
 - [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
 - [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
 - [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/Payback DOJO\|Payback DOJO]]
 - [[PARA/20. A-Area/글쓰기/가제는 엄마 편\|가제는 엄마 편]]
 - [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]
+- [[PARA/20. A-Area/글쓰기/미스 레이온\|미스 레이온]]
+- [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
+- [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
+- [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
 
 { .block-language-dataview}
 
+# Note
+Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelkasten\|Zettelkasten]] 문서 구분
+> [!note] Ctrl +E Random note from search
+> -tag: 분류:기록
+
+# 최근 변경 문서 Recently changed
+| File                                                                                    | Last modified      |
+| --------------------------------------------------------------------------------------- | ------------------ |
+| [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
+| [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
+| [[Zettelkasten/취약성\|취약성]]                                                            | 31.03.2026 - 17:52 |
+| [[Zettelkasten/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]                                | 31.03.2026 - 17:48 |
+| [[Zettelkasten/인지적 종결욕구\|인지적 종결욕구]]                                                  | 31.03.2026 - 17:48 |
+| [[PARA/00. Inbox/행복한-기억\|행복한-기억]]                                                    | 31.03.2026 - 17:48 |
+| [[Zettelkasten/전문가의 세계에서 메모하는 방법\|전문가의 세계에서 메모하는 방법]]                                | 31.03.2026 - 17:47 |
+| [[Zettelkasten/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]                                    | 31.03.2026 - 17:47 |
+| [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]                                                  | 31.03.2026 - 17:46 |
+| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]] | 31.03.2026 - 17:46 |
+| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]             | 31.03.2026 - 17:45 |
+| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]                 | 31.03.2026 - 17:43 |
+| [[Zettelkasten/명상의-중요성에-대해서\|명상의-중요성에-대해서]]                                          | 31.03.2026 - 17:39 |
+| [[Zettelkasten/목표를 설정하는 방법\|목표를 설정하는 방법]]                                            | 31.03.2026 - 17:39 |
+| [[Zettelkasten/두 번째 뇌 만들기는 자기계발이 아니다\|두 번째 뇌 만들기는 자기계발이 아니다]]                        | 31.03.2026 - 17:38 |
+| [[Zettelkasten/노트를 구성하고 정리하는 Workflow\|노트를 구성하고 정리하는 Workflow]]                      | 31.03.2026 - 17:37 |
+| [[Zettelkasten/내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.\|내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.]]  | 31.03.2026 - 17:37 |
+| [[Zettelkasten/끝없는 악순환의 고리\|끝없는 악순환의 고리]]                                            | 31.03.2026 - 17:36 |
+| [[Zettelkasten/구조화된-질문-방식\|구조화된-질문-방식]]                                              | 31.03.2026 - 17:34 |
+| [[Zettelkasten/감정의 핵심은 자존감에 있다\|감정의 핵심은 자존감에 있다]]                                    | 31.03.2026 - 17:34 |
+| [[Zettelkasten/감정-내성-범위와-감정적-상황에-대한-대처능력\|감정-내성-범위와-감정적-상황에-대한-대처능력]]                | 31.03.2026 - 17:33 |
+| [[PARA/00. Inbox/개인지식관리체계/개인지식관리체계\|개인지식관리체계]]                                       | 31.03.2026 - 17:33 |
+| [[Zettelkasten/I found a gem\|I found a gem]]                                        | 31.03.2026 - 17:32 |
+| [[Zettelkasten/도구는 신체를 확장시킨다\|도구는 신체를 확장시킨다]]                                        | 31.03.2026 - 17:32 |
+| [[Zettelkasten/고무 손바닥 감각 실험\|고무 손바닥 감각 실험]]                                          | 31.03.2026 - 17:31 |
+
+{ .block-language-dataview}
+
+
+# History of Home
+- 반성하는 차원
+
+2025-02-16 (전) 리뉴얼 준비중. 최대한 미니멀하고 마이크로하게 사용
+2025-10-04 최대한 마이크로하게 사용하고자... 등등
+이외에도 셀 수 없이 많은 시도가 있었고 번번히 실패했다. **타성에 젖어 원래 의도를 잊은**게 패인인듯.
+
+# [[PARA/00. Inbox/PARA Method\|PARA Method]] 아래 분류 전에 참고할 것.
+
+# Project
+- [[PARA/00. Inbox/BrainStorming\|BrainStorming]] = inbox. 작업대는 항상 비어있어야 한다. **정돈 요.**
+- 공부 [[PARA/10. P-Project/공부\|공부]] 
+	- IELTS : 흐지부지 됐고, 영어와 구분을 모호하게 했다. **MOC 요**.
+	- 영어 : 단어와 문장의 구분 모호. (예: 단어의 예시=문장? 단어?) **MOC+다른 분류방식 요**
+	- 기억술 : 흐지부지 됐고 목표가 불명확하다. **목표 재설정+MOC 요**
+		- 기억의 궁전 : Virtual, 신체, 조신영 : 개인적으로 만든 궁전이 형편없다. **목표 재설정+MOC+시각화 요.**
+	- Anki : Logseq 와 Obsidian 과 Anki 단독의 구분이 모호하고 중첩된다. **MOC+다른 분류방식 요.** 
+- PKM [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]] : Tip과 Guide 와 Plugin 등 너무 소화하지 못한 날것의 외부링크가 많다. **Minimal화 + 솎아내기+MOC 요.** 
+- 계획, 목표, 고민, 자아성찰 : 따로 페이지를 만들고 세부 계획을 보다 세워야 한다. 목표 설정보다는 시스템 조성에 집중할 것. **MOC+집중 요.** 
+- 운동 : 분할, 식단, 추천 운동 등. 본래 항시 관리해야 하는 영역(Area) 이나, 습관화 되지 않았으므로 Project 편입. **MOC+시스템화+집중 요**
+- [[Tags/정리\|정리]] 문서 참고하여 정리할 것들 하나씩 이행. [[일지정리\|일지정리]] 나 [[일기\|일기]], [[PARA/00. Inbox/일별 기록\|일별 기록]], [[일별 공사일지\|일별 공사일지]] 등도 참고.
+
+# [[PARA/30. R-Resource/30. R-Resource\|30. R-Resource]]
+- 웰빙 (명상, 동기부여) : 존경하는 사람, 사고싶은 것 (동기부여) 등
+- 취미 - 음악, 영화 등
+- 독서 : 독서록, 읽고싶은 책
+- 인간관계 및 대인 방법론
+- 흥미로운 소재
+	- 부업
+	- AI
+	- 철학
+	- 문방구
+- [3 tips for learning ted](https://www.youtube.com/watch?app=desktop&v=TjPFZaMe2yw) 
+- [10 min meditation - headspace](https://www.youtube.com/watch?app=desktop&v=lS0kcSNlULw) 
+- 건축
+	- 공사 : 공사와 공무와 안전과 품질이 모두 뒤섞여 업무분장이 모호하다. (예: 자재반입 등). **MOC + 다른 분류 방식 필요.
+# [[PARA/40. H-Archive/40. H-Archive\|40. H-Archive]]
+> [!note] 단순 흥미위주, ***정말로*** 불필요한 것들은 적지 말 것. 3일 이후에도 여전히 흥미가 남는 것들만 최종적으로 기입한다.
+- 의료관련 정보 : 처방, 내원이력, 약이나 시술 등. (이제 의료 관련 정보는 집중할 필요가 없다. Archive로 이동됨.)
+- 일별 정리 [[PARA/00. Inbox/일별 기록\|일별 기록]] → [[일지정리\|일지정리]] 에 정리
+- [[Google-Keep-정리\|Google-Keep-정리]]
+- 기타 잡다한 것들
+	- [Ölberg 만화 번역 티스토리](https://github.com/debanjandhar12/logseq-anki-sync) 
+	- [hiroshi yoshimura bandcamp](https://hiroshiyoshimura.bandcamp.com/album/green) 
+	- [Cognitive bias cheat sheet](https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18) 
+	- [cognitive bias](https://www.techtarget.com/searchenterpriseai/definition/cognitive-bias) 
 # 도보시오
 ## 가이드
 [Vercel을 이용한 Digital Garden 서비스 - 가이드](https://anpigon.vercel.app/%F0%9F%A7%B0%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%8F%84%EA%B5%AC/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20Obsidian/%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%20%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B0%80%EB%93%A0%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8/01%20%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/) : Vercel은 별로 쓰기 좋지 않다. **그냥 Netlify 를 이용**할 것. 방법은 거진 같다.

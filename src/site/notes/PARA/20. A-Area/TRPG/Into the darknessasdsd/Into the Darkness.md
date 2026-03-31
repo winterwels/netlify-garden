@@ -10,7 +10,7 @@ Status:
 Tags: [[Tags/dg\|dg]] , [[PARA/20. A-Area/TRPG/TRPG\|PARA/20. A-Area/TRPG/TRPG]] 
 # 요약
 아래는 혼자 놀기 + 자캐놀음 세계관의 살을 더하기 위함의 일환으로서...
-(끗발좋은 서푼짜리 떼껄룩 탐정 [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|루스]]와 초천재 하카 [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|브라이언]]의 좌충우돌 모험 이야기)
+(끗발좋은 서푼짜리 떼껄룩 탐정 [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|루스]]와 초천재 하카 [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|브라이언]]의 좌충우돌 모험 이야기)
 
 뭐 그냥 혼자 노는 법에 대해서 기술했다고 하네요.
 
@@ -76,12 +76,12 @@ AI 기술이나 택배 로봇, 완전 자동화 공장, 나노공학 등은 TL10
 
 # PC 시트
 ## 주인공 일행
-[[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]] 
-[[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]] 
+[[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]] 
+[[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]] 
 [[소피아 비라몬테스\|소피아 비라몬테스]]
 
 ## 기타
-- 마코스 니코 : [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|루스]] 의 스승같은 사람. 경찰인데 좀 더러운 방법 사용하는? 그래서 은퇴해서 탐정사무실 차려서 활동한다 했다가 얼마 안돼서 사망? 이란 느낌
+- 마코스 니코 : [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|루스]] 의 스승같은 사람. 경찰인데 좀 더러운 방법 사용하는? 그래서 은퇴해서 탐정사무실 차려서 활동한다 했다가 얼마 안돼서 사망? 이란 느낌
 - 체네네베 : 루스가 다닌 대학. 소련? 이나 소련 계열 국가인듯. 경찰학과 다님
 
 
