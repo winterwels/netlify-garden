@@ -30,25 +30,25 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[PARA/10. P-Project/명상/명상\|명상]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
-- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
-- [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
+- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
 - [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
-- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
+- [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
+- [[PARA/10. P-Project/명상/명상\|명상]]
 - [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
+- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
 - [[PARA/10. P-Project/현장 관리/멘끼, 콤비, 휠라 스페이서\|멘끼, 콤비, 휠라 스페이서]]
-- [[PARA/10. P-Project/현장 관리/블록\|블록]]
-- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
+- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
+- [[PARA/10. P-Project/현장 관리/블록\|블록]]
 - [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
 - [[PARA/10. P-Project/현장 관리/철근\|철근]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
 - [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
 
 { .block-language-dataview}
 
@@ -60,10 +60,13 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                        | 01.04.2026 - 00:38 |
+| [[소리에 대해서\|소리에 대해서]]                                                                 | 01.04.2026 - 07:54 |
+| [[PARA/20. A-Area/작곡/신스\|신스]]                                                        | 01.04.2026 - 07:51 |
+| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 01.04.2026 - 07:08 |
+| [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaSampleOmatic 5k\|ReaSampleOmatic 5k]]  | 01.04.2026 - 05:16 |
+| [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                        | 01.04.2026 - 00:45 |
 | [[PARA/20. A-Area/작곡/드럼 패턴\|드럼 패턴]]                                                  | 01.04.2026 - 00:36 |
 | [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 23:57 |
-| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 31.03.2026 - 23:03 |
 | [[PARA/00. Inbox/건축법규\|건축법규]]                                                        | 31.03.2026 - 18:05 |
 | [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
 | [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
@@ -82,9 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[Zettelkasten/두 번째 뇌 만들기는 자기계발이 아니다\|두 번째 뇌 만들기는 자기계발이 아니다]]                        | 31.03.2026 - 17:38 |
 | [[Zettelkasten/노트를 구성하고 정리하는 Workflow\|노트를 구성하고 정리하는 Workflow]]                      | 31.03.2026 - 17:37 |
 | [[Zettelkasten/내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.\|내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.]]  | 31.03.2026 - 17:37 |
-| [[Zettelkasten/끝없는 악순환의 고리\|끝없는 악순환의 고리]]                                            | 31.03.2026 - 17:36 |
-| [[Zettelkasten/구조화된-질문-방식\|구조화된-질문-방식]]                                              | 31.03.2026 - 17:34 |
-| [[Zettelkasten/감정의 핵심은 자존감에 있다\|감정의 핵심은 자존감에 있다]]                                    | 31.03.2026 - 17:34 |
 
 { .block-language-dataview}
 
