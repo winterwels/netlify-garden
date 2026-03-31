@@ -30,25 +30,25 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
+- [[PARA/10. P-Project/명상/명상\|명상]]
+- [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
+- [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
+- [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
+- [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
+- [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
+- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
+- [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
+- [[PARA/10. P-Project/현장 관리/멘끼, 콤비, 휠라 스페이서\|멘끼, 콤비, 휠라 스페이서]]
+- [[PARA/10. P-Project/현장 관리/블록\|블록]]
+- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
+- [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
+- [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
+- [[PARA/10. P-Project/현장 관리/철근\|철근]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
-- [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
 - [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
-- [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
-- [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
-- [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
-- [[PARA/20. A-Area/글쓰기/Payback DOJO\|Payback DOJO]]
-- [[PARA/20. A-Area/글쓰기/가제는 엄마 편\|가제는 엄마 편]]
-- [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]
-- [[PARA/20. A-Area/글쓰기/미스 레이온\|미스 레이온]]
-- [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
-- [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
-- [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
-- [[PARA/20. A-Area/글쓰기/자캐 갤러리\|자캐 갤러리]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
 
 { .block-language-dataview}
 
@@ -60,8 +60,10 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 31.03.2026 - 18:17 |
-| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 18:15 |
+| [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                        | 01.04.2026 - 00:38 |
+| [[PARA/20. A-Area/작곡/드럼 패턴\|드럼 패턴]]                                                  | 01.04.2026 - 00:36 |
+| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 23:57 |
+| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 31.03.2026 - 23:03 |
 | [[PARA/00. Inbox/건축법규\|건축법규]]                                                        | 31.03.2026 - 18:05 |
 | [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
 | [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
@@ -83,8 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[Zettelkasten/끝없는 악순환의 고리\|끝없는 악순환의 고리]]                                            | 31.03.2026 - 17:36 |
 | [[Zettelkasten/구조화된-질문-방식\|구조화된-질문-방식]]                                              | 31.03.2026 - 17:34 |
 | [[Zettelkasten/감정의 핵심은 자존감에 있다\|감정의 핵심은 자존감에 있다]]                                    | 31.03.2026 - 17:34 |
-| [[Zettelkasten/감정-내성-범위와-감정적-상황에-대한-대처능력\|감정-내성-범위와-감정적-상황에-대한-대처능력]]                | 31.03.2026 - 17:33 |
-| [[PARA/00. Inbox/개인지식관리체계/개인지식관리체계\|개인지식관리체계]]                                       | 31.03.2026 - 17:33 |
 
 { .block-language-dataview}
 
