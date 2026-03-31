@@ -60,8 +60,8 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 18:11 |
-| [[PARA/20. A-Area/작곡/프로듀싱\|프로듀싱]]                                                    | 31.03.2026 - 18:06 |
+| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 31.03.2026 - 18:15 |
+| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 18:15 |
 | [[PARA/00. Inbox/건축법규\|건축법규]]                                                        | 31.03.2026 - 18:05 |
 | [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
 | [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
