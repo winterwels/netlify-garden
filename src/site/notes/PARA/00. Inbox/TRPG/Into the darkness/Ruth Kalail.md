@@ -12,7 +12,7 @@ Tags:
 # Ruth Kalail
 - 상위 문서:
 	- TRPG
-		- [[PARA/00. Inbox/TRPG/Into the darkness/Into the darkness\|Into the darkness]]
+		- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
 
 대충 사이버펑크 세계관으로 자캐놀이를 하고 있은
 

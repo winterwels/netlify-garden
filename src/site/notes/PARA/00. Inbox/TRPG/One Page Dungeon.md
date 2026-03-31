@@ -14,7 +14,7 @@ Tags: [[Tags/dg\|dg]] , #기록
 created : 2024-12-14
 
 - Metadata
-	- 상위문서: [[PARA/20. A-Area/글쓰기/TRPG\|TRPG]]
+	- 상위문서: [[PARA/20. A-Area/TRPG/TRPG\|PARA/20. A-Area/TRPG/TRPG]]
 	- 연관 문서: 
 		- [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]] 
 		- [[달 사제의 사원\|달 사제의 사원]] 

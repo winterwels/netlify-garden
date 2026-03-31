@@ -12,7 +12,7 @@ Tags:
 # Brian Dax
 - 상위 문서:
 	- TRPG
-		- [[PARA/00. Inbox/TRPG/Into the darkness/Into the darkness\|Into the darkness]]
+		- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
 
 사이버펑크 자캐놀음의 희생양
 

@@ -12,11 +12,11 @@ Tags: [[Tags/dg\|dg]]
 
 이 페이지 주소 : [링크](https://imaginative-griffin-caaf97.netlify.app/) 
 
-커스텀 CSS 관련해서는 어떻게 하는지 잘 모르겠다. (일단 기본 폰트는 매우 안 이쁘다)
+2026-03-31 현재 기준 테마는 Avatar. 나름 이쁜거같지만 너무 형광이다.
 
-업로드 속도는 준수하나, 종종 어떤 플러그인들과 충돌하거나, 특정 문서들의 충돌로 인해 업로드가 안되는 문제점이 있다. [[AI\|ChatGPT]] 랑 열심히 씨름해야한다. (콘솔창 Ctrl+Shift+i)
+업로드 속도는 준수하나, 종종 어떤 플러그인들과 충돌하거나, 간혹 특정 문서들의 충돌로 인해 업로드가 안되는 문제점이 있다. (콘솔창 Ctrl+Shift+i)
 플러그인 하나씩 Disable 해보거나 각 문서별로 **`dg-permalink`** 설정하면 **왠만하면** 되긴 되는데 너무 자주 문제가 생긴다.
-Obsidian Sync가 가격은 비싸도 이런 걸로 고민 안해도 되니 차라리 나을지도 모름.)
+그러나 일단 체계를 갖춰두면 Obsidian Sync 를 굳이 비싼 돈 주고 유료로 안 써도 될거같다.
 
 Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
@@ -27,25 +27,25 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[Digital Garden/Journal/240615\|240615]]
-- [[Digital Garden/Journal/9. 사고와 잊혀지는 기억, 아버지와 죽음\|9. 사고와 잊혀지는 기억, 아버지와 죽음]]
-- [[Digital Garden/Journal/정아인과 싸움 (240627)\|정아인과 싸움 (240627)]]
-- [[20. Daily-Note/2024-11/2024-11-13\|2024-11-13]]
-- [[20. Daily-Note/2025-04/2025-04-19\|2025-04-19]]
+- [[PARA/00. Inbox/TRPG/One Page Dungeon\|One Page Dungeon]]
+- [[PARA/00. Inbox/TRPG/Into the darkness/Brian Dax\|Brian Dax]]
+- [[PARA/00. Inbox/TRPG/Into the darkness/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/00. Inbox/건축법규\|건축법규]]
+- [[PARA/00. Inbox/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]
+- [[PARA/00. Inbox/인지적 종결욕구\|인지적 종결욕구]]
+- [[PARA/00. Inbox/전문가의 세계에서 메모하는 방법\|전문가의 세계에서 메모하는 방법]]
+- [[PARA/00. Inbox/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]
+- [[PARA/00. Inbox/행복한-기억\|행복한-기억]]
 - [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
 - [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
+- [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
 - [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
-- [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
-- [[PARA/20. A-Area/글쓰기/TRPG\|TRPG]]
+- [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/Payback DOJO\|Payback DOJO]]
 - [[PARA/20. A-Area/글쓰기/가제는 엄마 편\|가제는 엄마 편]]
 - [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]
-- [[PARA/20. A-Area/글쓰기/미스 레이온\|미스 레이온]]
-- [[PARA/20. A-Area/글쓰기/소재/우리가 지금은 거울로 보는 것 같이 희미하나\|우리가 지금은 거울로 보는 것 같이 희미하나]]
-- [[PARA/20. A-Area/글쓰기/웃기는 짬뽕\|웃기는 짬뽕]]
-- [[PARA/20. A-Area/글쓰기/악마의 아가리\|악마의 아가리]]
-- [[PARA/20. A-Area/글쓰기/자캐 갤러리\|자캐 갤러리]]
 
 { .block-language-dataview}
 
