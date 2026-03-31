@@ -60,8 +60,8 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                    | Last modified      |
 | --------------------------------------------------------------------------------------- | ------------------ |
+| [[PARA/20. A-Area/작곡/신스\|신스]]                                                        | 01.04.2026 - 08:00 |
 | [[소리에 대해서\|소리에 대해서]]                                                                 | 01.04.2026 - 07:58 |
-| [[PARA/20. A-Area/작곡/신스\|신스]]                                                        | 01.04.2026 - 07:51 |
 | [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 01.04.2026 - 07:08 |
 | [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaSampleOmatic 5k\|ReaSampleOmatic 5k]]  | 01.04.2026 - 05:16 |
 | [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                        | 01.04.2026 - 00:45 |
