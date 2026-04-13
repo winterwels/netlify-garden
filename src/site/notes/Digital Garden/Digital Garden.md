@@ -30,25 +30,25 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
+- [[Tags/clipping/clipping\|clipping]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
 - [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
-- [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
 - [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
+- [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
 - [[PARA/10. P-Project/명상/명상\|명상]]
-- [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
 - [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
+- [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
 - [[PARA/10. P-Project/현장 관리/멘끼, 콤비, 휠라 스페이서\|멘끼, 콤비, 휠라 스페이서]]
-- [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
-- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/블록\|블록]]
+- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
+- [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
 - [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
 - [[PARA/10. P-Project/현장 관리/철근\|철근]]
-- [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
-- [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
-- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
 
 { .block-language-dataview}
 
@@ -58,33 +58,33 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 > -tag: 분류:기록
 
 # 최근 변경 문서 Recently changed
-| File                                                                                    | Last modified      |
-| --------------------------------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/작곡/신스\|신스]]                                                        | 01.04.2026 - 08:00 |
-| [[소리에 대해서\|소리에 대해서]]                                                                 | 01.04.2026 - 07:58 |
-| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                        | 01.04.2026 - 07:08 |
-| [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaSampleOmatic 5k\|ReaSampleOmatic 5k]]  | 01.04.2026 - 05:16 |
-| [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                        | 01.04.2026 - 00:45 |
-| [[PARA/20. A-Area/작곡/드럼 패턴\|드럼 패턴]]                                                  | 01.04.2026 - 00:36 |
-| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                        | 31.03.2026 - 23:57 |
-| [[PARA/00. Inbox/건축법규\|건축법규]]                                                        | 31.03.2026 - 18:05 |
-| [[Digital Garden/Digital Garden\|Digital Garden]]                                    | 31.03.2026 - 17:59 |
-| [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                  | 31.03.2026 - 17:58 |
-| [[Zettelkasten/취약성\|취약성]]                                                            | 31.03.2026 - 17:52 |
-| [[Zettelkasten/예민한 성격은 축복일까 저주일까\|예민한 성격은 축복일까 저주일까]]                                | 31.03.2026 - 17:48 |
-| [[Zettelkasten/인지적 종결욕구\|인지적 종결욕구]]                                                  | 31.03.2026 - 17:48 |
-| [[PARA/00. Inbox/행복한-기억\|행복한-기억]]                                                    | 31.03.2026 - 17:48 |
-| [[Zettelkasten/전문가의 세계에서 메모하는 방법\|전문가의 세계에서 메모하는 방법]]                                | 31.03.2026 - 17:47 |
-| [[Zettelkasten/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]                                    | 31.03.2026 - 17:47 |
-| [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]                                                  | 31.03.2026 - 17:46 |
-| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]] | 31.03.2026 - 17:46 |
-| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]             | 31.03.2026 - 17:45 |
-| [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]                 | 31.03.2026 - 17:43 |
-| [[Zettelkasten/명상의-중요성에-대해서\|명상의-중요성에-대해서]]                                          | 31.03.2026 - 17:39 |
-| [[Zettelkasten/목표를 설정하는 방법\|목표를 설정하는 방법]]                                            | 31.03.2026 - 17:39 |
-| [[Zettelkasten/두 번째 뇌 만들기는 자기계발이 아니다\|두 번째 뇌 만들기는 자기계발이 아니다]]                        | 31.03.2026 - 17:38 |
-| [[Zettelkasten/노트를 구성하고 정리하는 Workflow\|노트를 구성하고 정리하는 Workflow]]                      | 31.03.2026 - 17:37 |
-| [[Zettelkasten/내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.\|내가 무엇인지 나는 모른다. 내가 아는 것은 내가 아니다.]]  | 31.03.2026 - 17:37 |
+| File                                                                                              | Last modified      |
+| ------------------------------------------------------------------------------------------------- | ------------------ |
+| [[PARA/20. A-Area/작곡/Reaper/Reaper에서 Audio 겹친 부분이 잘리게 하는 설정\|Reaper에서 Audio 겹친 부분이 잘리게 하는 설정]] | 13.04.2026 - 20:18 |
+| [[PARA/20. A-Area/작곡/샘플/샘플\|샘플]]                                                               | 13.04.2026 - 18:47 |
+| [[Zettelkasten/구체적인 질문은 그 답이 정해져있다\|구체적인 질문은 그 답이 정해져있다]]                                      | 09.04.2026 - 11:56 |
+| [[Call and Response\|Call and Response]]                                                       | 09.04.2026 - 11:49 |
+| [[Zettelkasten/음악을 언어에 비유하기\|음악을 언어에 비유하기]]                                                    | 09.04.2026 - 11:40 |
+| [[PARA/20. A-Area/작곡/신스\|신스]]                                                                  | 08.04.2026 - 14:33 |
+| [[PARA/20. A-Area/작곡/작곡\|작곡]]                                                                  | 06.04.2026 - 13:54 |
+| [[True My Heart\|True My Heart]]                                                               | 02.04.2026 - 21:43 |
+| [[PARA/20. A-Area/작곡/리듬\|리듬]]                                                                  | 02.04.2026 - 21:38 |
+| [[PARA/20. A-Area/작곡/FX\|FX]]                                                                  | 01.04.2026 - 20:21 |
+| [[PARA/20. A-Area/작곡/LFO\|LFO]]                                                                | 01.04.2026 - 20:18 |
+| [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaEQ\|ReaEQ]]                                      | 01.04.2026 - 20:18 |
+| [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]                                                | 01.04.2026 - 20:16 |
+| [[PARA/00. Inbox/정보는 수신자의 관심을 소비한다\|정보는 수신자의 관심을 소비한다]]                                        | 01.04.2026 - 20:14 |
+| [[PARA/00. Inbox/루틴\|루틴]]                                                                      | 01.04.2026 - 20:13 |
+| [[Zettelkasten/Zettelkasten\|Zettelkasten]]                                                    | 01.04.2026 - 20:12 |
+| [[PARA/10. P-Project/명상/명상\|명상]]                                                               | 01.04.2026 - 20:11 |
+| [[PARA/00. Inbox/솔직함\|솔직함]]                                                                    | 01.04.2026 - 20:09 |
+| [[PARA/20. A-Area/작곡/소리에 대해서\|소리에 대해서]]                                                        | 01.04.2026 - 08:02 |
+| [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaSampleOmatic 5k\|ReaSampleOmatic 5k]]            | 01.04.2026 - 05:16 |
+| [[PARA/20. A-Area/작곡/드럼 패턴\|드럼 패턴]]                                                            | 01.04.2026 - 00:36 |
+| [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                                  | 31.03.2026 - 23:57 |
+| [[PARA/00. Inbox/건축법규\|건축법규]]                                                                  | 31.03.2026 - 18:05 |
+| [[Digital Garden/Digital Garden\|Digital Garden]]                                              | 31.03.2026 - 17:59 |
+| [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                            | 31.03.2026 - 17:58 |
 
 { .block-language-dataview}
 
