@@ -30,10 +30,9 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[Tags/clipping/clipping\|clipping]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
-- [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
 - [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
+- [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
 - [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
 - [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
 - [[PARA/10. P-Project/명상/명상\|명상]]
@@ -45,10 +44,11 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
 - [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
 - [[PARA/10. P-Project/현장 관리/철근\|철근]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
+- [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
+- [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
+- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
+- [[PARA/20. A-Area/TRPG/TRPG\|TRPG]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
 
 { .block-language-dataview}
 
@@ -60,6 +60,9 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                                                              | Last modified      |
 | ------------------------------------------------------------------------------------------------- | ------------------ |
+| [[PARA/20. A-Area/시공/콘크리트\|콘크리트]]                                                              | 18.04.2026 - 15:43 |
+| [[PARA/20. A-Area/시공/콘크리트 타설 시의 단계\|콘크리트 타설 시의 단계]]                                            | 18.04.2026 - 15:31 |
+| [[특기시방서\|특기시방서]]                                                                               | 16.04.2026 - 19:19 |
 | [[PARA/20. A-Area/작곡/Reaper/Reaper에서 Audio 겹친 부분이 잘리게 하는 설정\|Reaper에서 Audio 겹친 부분이 잘리게 하는 설정]] | 13.04.2026 - 20:18 |
 | [[PARA/20. A-Area/작곡/샘플/샘플\|샘플]]                                                               | 13.04.2026 - 18:47 |
 | [[Zettelkasten/구체적인 질문은 그 답이 정해져있다\|구체적인 질문은 그 답이 정해져있다]]                                      | 09.04.2026 - 11:56 |
@@ -82,9 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[PARA/20. A-Area/작곡/Reaper/Reaper Plugins/ReaSampleOmatic 5k\|ReaSampleOmatic 5k]]            | 01.04.2026 - 05:16 |
 | [[PARA/20. A-Area/작곡/드럼 패턴\|드럼 패턴]]                                                            | 01.04.2026 - 00:36 |
 | [[PARA/20. A-Area/작곡/송폼\|송폼]]                                                                  | 31.03.2026 - 23:57 |
-| [[PARA/00. Inbox/건축법규\|건축법규]]                                                                  | 31.03.2026 - 18:05 |
-| [[Digital Garden/Digital Garden\|Digital Garden]]                                              | 31.03.2026 - 17:59 |
-| [[PARA/40. H-Archive/Cataclysm DDA\|Cataclysm DDA]]                                            | 31.03.2026 - 17:58 |
 
 { .block-language-dataview}
 
