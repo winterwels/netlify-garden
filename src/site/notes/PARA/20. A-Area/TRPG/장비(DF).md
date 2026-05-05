@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/20.-A-Area/TRPG/겁스/장비","permalink":"/PARA/20.-A-Area/TRPG/겁스/장비/","created":"2026-05-05T20:37:32.278+09:00","dg-note-properties":{"created":"2026-05-05 20:37:32","update":"2026-05-05 20:37:32"}}
+{"dg-publish":true,"dg-permalink":"PARA/20.-A-Area/TRPG/겁스/장비(DF)","permalink":"/PARA/20.-A-Area/TRPG/겁스/장비(DF)/","created":"2026-05-05T20:37:32.278+09:00","dg-note-properties":{"created":"2026-05-05 20:37:32","update":"2026-05-05 20:37:32"}}
 ---
 
 Status: 
