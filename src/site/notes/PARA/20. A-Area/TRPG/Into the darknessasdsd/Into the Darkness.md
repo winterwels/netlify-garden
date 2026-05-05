@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Into the Darkness","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Into the Darkness/","created":"2026-03-23T10:58:23.387+09:00"}
+{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Into the Darkness","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Into the Darkness/","created":"2026-03-23T10:58:23.387+09:00","dg-note-properties":{}}
 ---
 
 

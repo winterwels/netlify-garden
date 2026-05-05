@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Sophia-Viramontes","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Sophia-Viramontes/","created":"2026-03-23T10:58:23.384+09:00"}
+{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Sophia-Viramontes","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Sophia-Viramontes/","created":"2026-03-23T10:58:23.384+09:00","dg-note-properties":{"created":"2026-01-25 23:37:08","update":"2026-01-25 23:37:08","aliases":["소피아"]}}
 ---
 
 Status: 

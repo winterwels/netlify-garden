@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Reaper에서-Audio-작곡/Reaper/Reaper에서-Audio-겹친-부분이-잘리게-하는-설정","permalink":"/Reaper에서-Audio-작곡/Reaper/Reaper에서-Audio-겹친-부분이-잘리게-하는-설정/","created":"2026-04-13T20:11:30.910+09:00"}
+{"dg-publish":true,"dg-permalink":"Reaper에서-Audio-작곡/Reaper/Reaper에서-Audio-겹친-부분이-잘리게-하는-설정","permalink":"/Reaper에서-Audio-작곡/Reaper/Reaper에서-Audio-겹친-부분이-잘리게-하는-설정/","created":"2026-04-13T20:11:30.910+09:00","dg-note-properties":{"created":"2026-04-13 20:11:30","update":"2026-04-13 20:11:30"}}
 ---
 
 Status: 

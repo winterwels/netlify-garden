@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/JS-Delay","permalink":"/작곡/Reaper/Reaper-Plugins/JS-Delay/","created":"2026-03-30T23:18:02.751+09:00"}
+{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/JS-Delay","permalink":"/작곡/Reaper/Reaper-Plugins/JS-Delay/","created":"2026-03-30T23:18:02.751+09:00","dg-note-properties":{"created":"2026-03-30 23:18:02","update":"2026-03-30 23:18:02","aliases":["JS: Delay"]}}
 ---
 
 Status: 

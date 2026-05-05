@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Brian-Dax","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Brian-Dax/","created":"2026-03-23T10:58:23.386+09:00"}
+{"dg-publish":true,"dg-permalink":"PARA/20. A-Area/TRPG/Into the Darkness/Brian-Dax","permalink":"/PARA/20. A-Area/TRPG/Into the Darkness/Brian-Dax/","created":"2026-03-23T10:58:23.386+09:00","dg-note-properties":{}}
 ---
 
 

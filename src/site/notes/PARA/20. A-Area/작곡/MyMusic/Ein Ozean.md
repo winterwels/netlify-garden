@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/MyMusic/Ein-Ozean","permalink":"/작곡/MyMusic/Ein-Ozean/","created":"2026-03-23T10:58:24.202+09:00"}
+{"dg-publish":true,"dg-permalink":"작곡/MyMusic/Ein-Ozean","permalink":"/작곡/MyMusic/Ein-Ozean/","created":"2026-03-23T10:58:24.202+09:00","dg-note-properties":{"created":"2026-03-16 14:08:49","update":"2026-03-16 14:08:49"}}
 ---
 
 Status: 

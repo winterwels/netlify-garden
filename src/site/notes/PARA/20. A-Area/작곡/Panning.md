@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Panning","permalink":"/작곡/Panning/","created":"2026-03-30T23:29:22.699+09:00"}
+{"dg-publish":true,"dg-permalink":"작곡/Panning","permalink":"/작곡/Panning/","created":"2026-03-30T23:29:22.699+09:00","dg-note-properties":{"created":"2026-03-30 23:29:22","update":"2026-03-30 23:29:22","aliases":["pan"]}}
 ---
 
 Status: 

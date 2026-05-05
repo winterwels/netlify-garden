@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PKM/Obsidian","permalink":"/PKM/Obsidian/","created":"2026-03-23T10:58:23.910+09:00"}
+{"dg-publish":true,"dg-permalink":"PKM/Obsidian","permalink":"/PKM/Obsidian/","created":"2026-03-23T10:58:23.910+09:00","dg-note-properties":{}}
 ---
 
 

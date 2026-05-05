@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/40.-H-Archive/Cataclysm-DDA","permalink":"/PARA/40.-H-Archive/Cataclysm-DDA/","created":"2026-03-23T10:58:23.368+09:00"}
+{"dg-publish":true,"dg-permalink":"PARA/40.-H-Archive/Cataclysm-DDA","permalink":"/PARA/40.-H-Archive/Cataclysm-DDA/","created":"2026-03-23T10:58:23.368+09:00","dg-note-properties":{"created":"2026-01-24 13:31:49","update":"2026-01-24 13:31:49","aliases":["CDDA"]}}
 ---
 
 Status: 
@@ -74,6 +74,8 @@ Compact Bionic Modules
 - 유압 근력장치 (Hydraulic Muscle) 힘 20 즈가
 
 고장난 운동신경 전기 자극기 : 한 압전 솔레노이드가 거꾸로 설치되었습니다. 사실 전선도 한두개 정도 잘못 끼우고 콘덴서도 서너개 태워먹었습니다.
+<!--ID: 1777375765068-->
+
 # Mutation
 뮤타젠 복용 등으로 가능
 

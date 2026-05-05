@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/ReaEQ","permalink":"/작곡/Reaper/Reaper-Plugins/ReaEQ/","created":"2026-03-31T16:57:28.132+09:00"}
+{"dg-publish":true,"dg-permalink":"작곡/Reaper/Reaper-Plugins/ReaEQ","permalink":"/작곡/Reaper/Reaper-Plugins/ReaEQ/","created":"2026-03-31T16:57:28.132+09:00","dg-note-properties":{"created":"2026-03-31 16:57:28","update":"2026-03-31 16:57:28"}}
 ---
 
 Status: 

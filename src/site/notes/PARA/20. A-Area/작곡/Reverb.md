@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"작곡/Reverb","permalink":"/작곡/Reverb/","created":"2026-03-31T00:20:51.195+09:00"}
+{"dg-publish":true,"dg-permalink":"작곡/Reverb","permalink":"/작곡/Reverb/","created":"2026-03-31T00:20:51.195+09:00","dg-note-properties":{"created":"2026-03-31 00:20:51","update":"2026-03-31 00:20:51"}}
 ---
 
 Status: 

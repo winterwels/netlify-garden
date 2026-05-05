@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Baby-ruth-and-the-finest-tale-about-the-greatest-adventure","permalink":"/6.-Main-Notes/창작/Baby-ruth-and-the-finest-tale-about-the-greatest-adventure/","created":"2026-03-23T10:58:23.603+09:00"}
+{"dg-publish":true,"dg-permalink":"6.-Main-Notes/창작/Baby-ruth-and-the-finest-tale-about-the-greatest-adventure","permalink":"/6.-Main-Notes/창작/Baby-ruth-and-the-finest-tale-about-the-greatest-adventure/","created":"2026-03-23T10:58:23.603+09:00","dg-note-properties":{}}
 ---
 
 

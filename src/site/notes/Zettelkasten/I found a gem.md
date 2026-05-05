@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Zettelkasten/I-found-a-gem","permalink":"/Zettelkasten/I-found-a-gem/","created":"2026-03-23T10:58:23.403+09:00"}
+{"dg-publish":true,"dg-permalink":"Zettelkasten/I-found-a-gem","permalink":"/Zettelkasten/I-found-a-gem/","created":"2026-03-23T10:58:23.403+09:00","dg-note-properties":{}}
 ---
 
 

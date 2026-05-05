@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Zettelkasten/노트를-구성하고-정리하는-Workflow","permalink":"/Zettelkasten/노트를-구성하고-정리하는-Workflow/","created":"2026-03-23T10:58:23.429+09:00"}
+{"dg-publish":true,"dg-permalink":"Zettelkasten/노트를-구성하고-정리하는-Workflow","permalink":"/Zettelkasten/노트를-구성하고-정리하는-Workflow/","created":"2026-03-23T10:58:23.429+09:00","dg-note-properties":{}}
 ---
 
 
