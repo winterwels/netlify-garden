@@ -125,5 +125,32 @@ Tags:
 
 ![](https://i.imgur.com/8lVSM31.jpeg)
 
+![](https://i.imgur.com/4xYHS4I.png)
+
+![](https://i.imgur.com/DXFE33U.png)
+
+![](https://i.imgur.com/jeca7aB.png)
+
+![](https://i.imgur.com/tSuWS9k.png)
+
+![](https://i.imgur.com/ibfGoKN.png)
+
+![](https://i.imgur.com/QJIs65c.png)
+
+# 갑옷
+![](https://i.imgur.com/jNzV2As.png)
+
+![](https://i.imgur.com/0wJpl0h.png)
+
+![](https://i.imgur.com/MqFu2JW.png)
+
+![](https://i.imgur.com/TytZsgN.png)
+
+# 기타 장비
+
+![](https://i.imgur.com/T1GPiUk.png)
+
+![](https://i.imgur.com/bEfS20f.png)
+
 
 # References
