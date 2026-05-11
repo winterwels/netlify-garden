@@ -8,7 +8,7 @@ Tags:
 
 
 ---
-[[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]] 던전판타지의 장비
+[[PARA/20. A-Area/TRPG/겁스/겁스\|PARA/20. A-Area/TRPG/겁스/겁스]] 던전판타지의 장비
 
 # 장비
 

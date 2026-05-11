@@ -30,25 +30,25 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
 - [[Digital Garden/Digital Garden\|Digital Garden]]
-- [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
 - [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
 - [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
 - [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
+- [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
+- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
 - [[PARA/10. P-Project/명상/명상\|명상]]
 - [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
-- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
 - [[PARA/10. P-Project/현장 관리/멘끼, 콤비, 휠라 스페이서\|멘끼, 콤비, 휠라 스페이서]]
 - [[PARA/10. P-Project/현장 관리/블록\|블록]]
-- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
+- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
 - [[PARA/10. P-Project/현장 관리/철근\|철근]]
-- [[PARA/20. A-Area/PKM/Obsidian\|Obsidian]]
-- [[PARA/20. A-Area/PKM/세컨드브레인\|세컨드브레인]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
+- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
 
 { .block-language-dataview}
 
@@ -60,8 +60,8 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                             | Last modified      |
 | ---------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/TRPG/장비(DF)\|장비(DF)]]                       | 05.05.2026 - 21:28 |
-| [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]                            | 05.05.2026 - 20:50 |
+| [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]                            | 11.05.2026 - 20:39 |
+| [[PARA/20. A-Area/TRPG/장비(DF)\|장비(DF)]]                       | 11.05.2026 - 18:55 |
 | [[PARA/00. Inbox/영혼침탈자들의 준동\|영혼침탈자들의 준동]]                     | 05.05.2026 - 20:49 |
 | [[장비\|장비]]                                                    | 05.05.2026 - 20:37 |
 | [[PARA/20. A-Area/시공/조립용 철근\|조립용 철근]]                         | 02.05.2026 - 19:12 |
