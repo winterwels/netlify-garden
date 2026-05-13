@@ -29,26 +29,26 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [netlify obsidian hosting](https://www.youtube.com/watch?v=7f8e5IiUkeo) 
 
 아래는 Digital Garden 표기된 (즉 발행하는) 글 리스트 (Dataview).
-- [[Digital Garden/Digital Garden\|Digital Garden]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈 서평\|기차의 꿈 서평]]
 - [[PARA/10. P-Project/1,000권 독서/남겨둘 시간이 없답니다\|남겨둘 시간이 없답니다]]
 - [[PARA/10. P-Project/1,000권 독서/보르헤스의-말\|보르헤스의-말]]
-- [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
 - [[PARA/10. P-Project/1,000권 독서/기차의 꿈\|기차의 꿈]]
-- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
+- [[PARA/10. P-Project/1,000권 독서/인생을-바꾸는-90초\|인생을-바꾸는-90초]]
 - [[PARA/10. P-Project/명상/명상\|명상]]
 - [[PARA/10. P-Project/음악 만들기/음악 만들기\|음악 만들기]]
+- [[PARA/10. P-Project/자기관리/ADHD/ADHD 환자를 위한 인지행동치료\|ADHD 환자를 위한 인지행동치료]]
 - [[PARA/10. P-Project/현장 관리/멘끼, 콤비, 휠라 스페이서\|멘끼, 콤비, 휠라 스페이서]]
+- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/블록\|블록]]
 - [[PARA/10. P-Project/현장 관리/선부착, 후부착\|선부착, 후부착]]
-- [[PARA/10. P-Project/현장 관리/사시낑\|사시낑]]
 - [[PARA/10. P-Project/현장 관리/업무일지\|업무일지]]
 - [[PARA/10. P-Project/현장 관리/철근\|철근]]
-- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
+- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Brian Dax\|Brian Dax]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
+- [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
-- [[PARA/20. A-Area/TRPG/One Page Dungeon\|One Page Dungeon]]
+- [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]
 
 { .block-language-dataview}
 
@@ -60,7 +60,9 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                             | Last modified      |
 | ---------------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]                            | 11.05.2026 - 20:41 |
+| [[PARA/20. A-Area/TRPG/겁스/DF 두루마리와 포션\|DF 두루마리와 포션]]          | 13.05.2026 - 15:51 |
+| [[겁스 마법\|겁스 마법]]                                              | 12.05.2026 - 15:54 |
+| [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]                            | 12.05.2026 - 15:04 |
 | [[PARA/20. A-Area/TRPG/장비(DF)\|장비(DF)]]                       | 11.05.2026 - 18:55 |
 | [[PARA/00. Inbox/영혼침탈자들의 준동\|영혼침탈자들의 준동]]                     | 05.05.2026 - 20:49 |
 | [[장비\|장비]]                                                    | 05.05.2026 - 20:37 |
@@ -83,8 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[Zettelkasten/도구는 신체를 확장시킨다\|도구는 신체를 확장시킨다]]                 | 28.04.2026 - 20:38 |
 | [[Zettelkasten/지식을 수집하는 질문의 예시\|지식을 수집하는 질문의 예시]]             | 28.04.2026 - 20:38 |
 | [[PARA/00. Inbox/Obsidian to anki 사용법\|Obsidian to anki 사용법]] | 28.04.2026 - 20:32 |
-| [[PARA/10. P-Project/현장 관리/벽체\|벽체]]                           | 28.04.2026 - 20:32 |
-| [[PARA/10. P-Project/현장 관리/거푸집 탈형 시기\|거푸집 탈형 시기]]             | 28.04.2026 - 20:29 |
 
 { .block-language-dataview}
 
