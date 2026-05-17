@@ -40,15 +40,15 @@ Test [[20. Daily-Note/2025-03/2025-03-10\|2025-03-10]] 22:18
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Into the Darkness\|Into the Darkness]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Ruth Kalail\|Ruth Kalail]]
 - [[PARA/20. A-Area/TRPG/Into the darknessasdsd/Sophia Viramontes\|Sophia Viramontes]]
+- [[PARA/20. A-Area/TRPG/겁스/겁스 무예\|겁스 무예]]
 - [[PARA/20. A-Area/TRPG/겁스/DF 두루마리와 포션\|DF 두루마리와 포션]]
 - [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]
+- [[PARA/20. A-Area/TRPG/겁스/겁스 액션\|겁스 액션]]
 - [[PARA/20. A-Area/글쓰기/2042년, DC 메리디언 힐 공원\|2042년, DC 메리디언 힐 공원]]
 - [[PARA/20. A-Area/글쓰기/Payback DOJO\|Payback DOJO]]
 - [[PARA/20. A-Area/글쓰기/Baby ruth and the finest tale about the greatest adventure\|Baby ruth and the finest tale about the greatest adventure]]
 - [[PARA/20. A-Area/글쓰기/The Eternal Construction Site\|The Eternal Construction Site]]
 - [[PARA/20. A-Area/글쓰기/가제는 엄마 편\|가제는 엄마 편]]
-- [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]
-- [[PARA/20. A-Area/글쓰기/미스 레이온\|미스 레이온]]
 
 { .block-language-dataview}
 
@@ -60,22 +60,23 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 # 최근 변경 문서 Recently changed
 | File                                                      | Last modified      |
 | --------------------------------------------------------- | ------------------ |
-| [[PARA/20. A-Area/20. A-Area\|20. A-Area]]             | 17.05.2026 - 16:53 |
+| [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]                       | 17.05.2026 - 17:06 |
+| [[겁스 마법\|겁스 마법]]                                       | 17.05.2026 - 16:59 |
+| [[PARA/20. A-Area/시공/철근\|철근]]                          | 17.05.2026 - 16:58 |
+| [[PARA/20. A-Area/시공/비계\|비계]]                          | 17.05.2026 - 16:58 |
+| [[PARA/20. A-Area/TRPG/겁스/DF 두루마리와 포션\|DF 두루마리와 포션]]   | 17.05.2026 - 16:58 |
+| [[PARA/20. A-Area/TRPG/겁스/겁스 액션\|겁스 액션]]               | 17.05.2026 - 16:57 |
+| [[PARA/20. A-Area/TRPG/겁스/겁스 무예\|겁스 무예]]               | 17.05.2026 - 16:57 |
+| [[PARA/20. A-Area/글쓰기/내러티브\|내러티브]]                     | 17.05.2026 - 16:56 |
+| [[PARA/20. A-Area/시공/조립용 철근\|조립용 철근]]                  | 17.05.2026 - 16:56 |
+| [[PARA/20. A-Area/20. A-Area\|20. A-Area]]             | 17.05.2026 - 16:56 |
 | [[PARA/20. A-Area/글쓰기/메모 상자와 소통하는 방법\|메모 상자와 소통하는 방법]] | 17.05.2026 - 16:51 |
-| [[PARA/20. A-Area/글쓰기/글쓰기\|글쓰기]]                       | 17.05.2026 - 16:50 |
-| [[PARA/20. A-Area/시공/조립용 철근\|조립용 철근]]                  | 17.05.2026 - 16:50 |
 | [[PARA/10. P-Project/현장 관리/벽돌\|벽돌]]                    | 17.05.2026 - 16:01 |
-| [[PARA/20. A-Area/TRPG/겁스/겁스 액션\|겁스 액션]]               | 17.05.2026 - 15:57 |
-| [[PARA/20. A-Area/TRPG/겁스/겁스 무예\|겁스 무예]]               | 14.05.2026 - 16:33 |
-| [[겁스 마법\|겁스 마법]]                                       | 14.05.2026 - 16:31 |
 | [[PARA/20. A-Area/TRPG/겁스/겁스\|겁스]]                     | 13.05.2026 - 15:51 |
-| [[PARA/20. A-Area/TRPG/겁스/DF 두루마리와 포션\|DF 두루마리와 포션]]   | 13.05.2026 - 15:51 |
 | [[PARA/20. A-Area/TRPG/장비(DF)\|장비(DF)]]                | 11.05.2026 - 18:55 |
 | [[PARA/00. Inbox/영혼침탈자들의 준동\|영혼침탈자들의 준동]]              | 05.05.2026 - 20:49 |
 | [[장비\|장비]]                                             | 05.05.2026 - 20:37 |
-| [[PARA/10. P-Project/현장 관리/철근\|철근]]                    | 02.05.2026 - 19:10 |
 | [[PARA/20. A-Area/시공/콘크리트\|콘크리트]]                      | 02.05.2026 - 19:10 |
-| [[비계\|비계]]                                             | 02.05.2026 - 15:49 |
 | [[간격재\|간격재]]                                           | 01.05.2026 - 19:41 |
 | [[PARA/20. A-Area/시공/지수재\|지수재]]                        | 28.04.2026 - 20:55 |
 | [[정아인 여성\|정아인 여성]]                                     | 28.04.2026 - 20:49 |
@@ -84,7 +85,6 @@ Smart Random Note 이용하여 검색하고 PKM 문서 / [[Zettelkasten/Zettelka
 | [[PARA/10. P-Project/현장 관리/줄눈\|줄눈]]                    | 28.04.2026 - 20:44 |
 | [[PARA/20. A-Area/시공/먹메김\|먹메김]]                        | 28.04.2026 - 20:44 |
 | [[PARA/00. Inbox/우레탄폼\|우레탄폼]]                          | 28.04.2026 - 20:42 |
-| [[PARA/10. P-Project/현장 관리/블록\|블록]]                    | 28.04.2026 - 20:41 |
 
 { .block-language-dataview}
 

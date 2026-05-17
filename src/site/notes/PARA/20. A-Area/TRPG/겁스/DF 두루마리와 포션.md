@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PARA/20.-A-Area/TRPG/겁스/겁스/DF-두루마리와-포션","permalink":"/PARA/20.-A-Area/TRPG/겁스/겁스/DF-두루마리와-포션/","created":"2026-05-12T14:12:00.026+09:00","dg-note-properties":{"created":"2026-05-12 14:12:00","update":"2026-05-12 14:12:00"}}
+{"dg-publish":true,"dg-permalink":"PARA/20.-A-Area/TRPG/겁스/DF-두루마리와-포션","permalink":"/PARA/20.-A-Area/TRPG/겁스/DF-두루마리와-포션/","created":"2026-05-12T14:12:00.026+09:00","dg-note-properties":{"created":"2026-05-12 14:12:00","update":"2026-05-12 14:12:00"}}
 ---
 
 Status: 
